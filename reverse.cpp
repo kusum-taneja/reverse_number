@@ -13,3 +13,4 @@ cin>>n;
   }    
  cout<<"Reversed Number: "<<reverse<<endl;     
 return 0; 
+}
